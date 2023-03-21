@@ -1,4 +1,4 @@
-## Contract Address: 0x0d8D59db1EB9A53FB531fe74d352638Bf956B69A
+## Contract Address: 0x6bc7620D1C78cc2068Fd541a95a65a7045ecB9ce
 ## Reference Page
 #### [完整的Hardhat實踐教程](https://medium.com/my-blockchain-development-daily-journey/%E5%AE%8C%E6%95%B4%E7%9A%84hardhat%E5%AF%A6%E8%B8%90%E6%95%99%E7%A8%8B-a9b005aa4c12)
 #### [Chatgpt Debug](https://chat.openai.com/chat)
